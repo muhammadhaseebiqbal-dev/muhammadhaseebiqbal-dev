@@ -51,7 +51,7 @@ Hi! My name is Haseeb Iqbal, and I'm a Full Stack Developer from Pakistan.
 
   <!-- Cloud -->
   <img width="12" />
-  <img src="./assets/aws-svgrepo-com.svg" height="40" alt="AWS logo" />
+  <img src="aws-svgrepo-com.svg" height="40" alt="AWS logo" />
 </div>
 
 
