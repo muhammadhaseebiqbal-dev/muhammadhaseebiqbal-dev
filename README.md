@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">
-Hi! My name is Haseeb Iqbal, and I'm a Full Stack Developer from Pakistan.
+My name is Haseeb Iqbal, and I'm a Full Stack Developer from Pakistan.
 </p>
 
 <h2 align="left">About Me</h2>
