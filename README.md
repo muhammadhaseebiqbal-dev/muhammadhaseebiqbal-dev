@@ -64,7 +64,7 @@ My name is Haseeb Iqbal, and I'm a Full Stack Developer from Pakistan.
 
 <h2 align="left">⚡ Vibecoded Territory</h2>
 
-<p align="left">Things I ship fast with AI doing half the typing</p>
+<p align="left">Things I prototype and ship faster with AI doing half the typing</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
