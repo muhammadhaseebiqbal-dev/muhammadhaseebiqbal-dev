@@ -50,7 +50,7 @@ My name is Haseeb Iqbal, and I'm a Full Stack Developer from Pakistan.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS logo" />
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP logo" />
@@ -85,9 +85,6 @@ My name is Haseeb Iqbal, and I'm a Full Stack Developer from Pakistan.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="terminal / TUI logo" />
   <img width="12" />
 
-  <img src="https://api.iconify.design/simple-icons:openai.svg?color=%23ffffff" width="40" height="40" alt="OpenAI logo" />
-  <img width="12" />
-
   <img src="https://cdn.simpleicons.org/googlegemini" height="40" alt="google gemini logo" />
   <img width="12" />
 
@@ -108,7 +105,7 @@ My name is Haseeb Iqbal, and I'm a Full Stack Developer from Pakistan.
 <div align="left">
   <img src="https://cdn.simpleicons.org/claude/F5F5F5" height="40" alt="claude code logo" />
   <img width="8" />
-<img src="https://api.iconify.design/lucide:plus.svg?color=%238B8B8B" width="20" height="20" alt="plus" />
+<span style="color: white; font-size: 28px; font-weight: 900;">＋</span>
 <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
 </div>
