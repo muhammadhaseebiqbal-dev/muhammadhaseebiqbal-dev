@@ -38,13 +38,22 @@ My name is Haseeb Iqbal, and I'm a Full Stack Developer from Pakistan.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
+  <img src="https://cdn.simpleicons.org/express/FFFFFF" height="40" alt="express logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" height="40" alt="react native logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
@@ -59,6 +68,9 @@ My name is Haseeb Iqbal, and I'm a Full Stack Developer from Pakistan.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" />
   <img width="12" />
 
+  <img src="https://cdn.simpleicons.org/n8n/FF6D5A" height="40" alt="n8n logo" />
+  <img width="12" />
+
   <img src="https://cdn.simpleicons.org/posthog/FF5A1F" height="40" alt="posthog logo" />
 </div>
 
@@ -70,28 +82,34 @@ My name is Haseeb Iqbal, and I'm a Full Stack Developer from Pakistan.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" height="40" alt="react native logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
-  <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="terminal / TUI logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind css logo" />
   <img width="12" />
 
-  <img src="https://cdn.simpleicons.org/googlegemini" height="40" alt="google gemini logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="40" alt="playwright logo" />
+  <img width="12" />
+
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo" />
+  <img width="12" />
+
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="terminal / TUI logo" />
+  <img width="12" />
+
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="40" alt="google gemini logo" />
   <img width="12" />
 
   <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" alt="hugging face logo" />
-  <img width="12" />
-
-  <img src="https://cdn.simpleicons.org/n8n/FF6D5A" height="40" alt="n8n logo" />
 </div>
 
 <h2 align="left">💻 Fav Dev Environment</h2>
@@ -99,7 +117,7 @@ My name is Haseeb Iqbal, and I'm a Full Stack Developer from Pakistan.
 <p align="left">The setup I actually reach for when it's time to build</p>
 
 <p align="left">
-<b>Claude Code + VS Code</b> — full control, for heavy lifting like app dev and backend
+<b>Claude Code + VS Code:</b> full control, for heavy lifting like app dev and backend
 </p>
 
 <div align="left">
@@ -111,7 +129,7 @@ My name is Haseeb Iqbal, and I'm a Full Stack Developer from Pakistan.
 </div>
 
 <p align="left">
-<b>Antigravity 2.0</b> — my pick for web frontend, fast and fun
+<b>Antigravity 2.0:</b> my pick for web frontend, fast and fun
 </p>
 
 <div align="left">
