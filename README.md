@@ -123,7 +123,7 @@ My name is Haseeb Iqbal, and I'm a Full Stack Developer from Pakistan.
 <div align="left">
   <img src="https://cdn.simpleicons.org/claude/F5F5F5" height="40" alt="claude code logo" />
   <img width="8" />
-<img src="https://api.iconify.design/ph:plus-bold.svg?color=%23ffffff" height="22" alt="+" />
+<strong>+</strong>
 <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
 </div>
